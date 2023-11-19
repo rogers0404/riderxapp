@@ -131,15 +131,15 @@ http://www.templatemo.com/tm-521-get-ready
 
   .subscribe-form button[type="submit"] {
     background: transparent;
-    border: 0;
+    border: 1;
     outline: none;
   }
 
   .subscribe-form .fa {
     cursor: pointer;
     position: absolute;
-    top: 12px;
-    right: 12px;
+    top: 281px;
+    right: 2px;
     color: #d2b48c;
     font-size: 20px;
   }
